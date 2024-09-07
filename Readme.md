@@ -1,4 +1,4 @@
-!![Image](1920x1080_px_animals_big_cats_nature_Tiger-726265.jpg)
+!![Image](BeastVision-Intelligent-Animal-Recognition\images\1920x1080_px_animals_big_cats_nature_Tiger-726265.jpg)
 ## This is a machine learning project on Identification of Animal Species with a Intelligent Machine Learning Algorithm <br>
 
 Requirements:<br>
