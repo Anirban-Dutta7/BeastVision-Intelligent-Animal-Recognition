@@ -1,4 +1,5 @@
-## This is a repository where you can learn how to use all the necessary packages to perform data analysis using python <br>
+!![Image](1920x1080_px_animals_big_cats_nature_Tiger-726265.jpg)
+## This is a machine learning project on Identification of Animal Species with a Intelligent Machine Learning Algorithm <br>
 
 Requirements:<br>
 1. Python (any version)
